@@ -11,7 +11,7 @@ Nothing!  Ansible makes the world better by using a human readable language call
 ## What am I getting into here?
 [Version Control - how does it work and why do I care?!](Docs/version_control.md)  
 [Pulling, forking, branching, updating](#GitOperations)  
-[Integrated Development Environment - Check my code!](Docs/IDEs/VSCode.md)  
+[Integrated Development Environment - Check my code!](Docs/IDEs/Overview.md)  
 [Inventories - grouping environments for your playbook](#Inventories)  
 [Operations for Operating Systems](#OperatingSystemBestPractices)  
 [Where do I put my private information?!](#VaultTactics)  
